@@ -1,2 +1,2 @@
 # Test02
-The second time that I use GitHub
+Well, now I try to edit it after creating a new branch. Still have no idea what a branch is...
